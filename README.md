@@ -1,1 +1,1 @@
-👨‍💻 Backend Developer | Java · Spring Boot | Produção | MQTT · IoT · MySQL
+👨‍💻 Backend Developer | Java · Spring Boot | Angular | Produção | MQTT · IoT · MySQL
