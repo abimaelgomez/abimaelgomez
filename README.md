@@ -94,3 +94,40 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=3498db&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let%27s+build+something+amazing+together!" alt="Typing SVG" />
 </div>
+
+
+<div align="center">
+  <img src="https://wakatime.com/share/@abimaelgomez/wakatime-badge.svg" alt="WakaTime badge"/>
+</div>
+
+<div align="center">
+  <img src="https://skyline.github.com/abimaelgomez/2024.png" alt="GitHub Skyline"/>
+</div>
+
+<div align="center">
+  <img src="https://github-contribution-calendar.vercel.app/api?username=abimaelgomez&theme=dark" alt="Contribution Calendar"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abimaelgomez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats with Rank"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Productivity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abimaelgomez&layout=pie&theme=tokyonight&hide_border=true" alt="Languages Pie Chart"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abimaelgomez&theme=tokyonight" alt="Repos per Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abimaelgomez&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=GitHub%20Statistics" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Productivity Graph"/>
+</div>
