@@ -39,6 +39,19 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" style="max-width: 400px; margin: 10px;"/>
 </div>
 
+<!-- GitHub Analytics -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Profile Details" width="100%" style="max-width: 900px; margin: 15px 0;"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language" width="100%" style="max-width: 100%; margin: 10px 0;"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" width="100%" style="max-width: 100%; margin: 10px 0;"/>
+</div>
+
 
 
 <!-- Tech Stack -->
