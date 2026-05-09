@@ -1,139 +1,94 @@
 # Abimael Gomes Silva de Carvalho
 
-**Desenvolvedor Backend | Java • Spring Boot • APIs REST • IoT • IA**
-
-📍 Cajamar/SP | 📞 (11) 96612-3959 | 📧 abimaelcarvalho95@gmail.com
+Desenvolvedor de Software Backend | Java • Spring Boot • APIs REST
+Cajamar/SP, Brasil • (11) 96612-3959 • abimaelcarvalho95@gmail.com
+[LinkedIn](https://linkedin.com/in/abimael-gomes-799a54137) • [GitHub](https://github.com/abimaelgomez) • [WhatsApp](https://wa.me/5511966123959)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abimaelgomez&theme=dark&show_icons=true&include_all_commits=true&count_private=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abimaelgomez&theme=dark&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abimaelgomez&layout=compact&theme=dark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abimaelgomez&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Stack Técnica
 
-**Backend:** Java • Spring Boot • Spring Security (JWT) • Spring Data JPA • Hibernate
+**Linguagens:** Java • Python • R • JavaScript • SQL • C++ (Arduino)
 
-**Frontend:** Thymeleaf • HTML5 • CSS3 • JavaScript • Angular (básico)
+**Backend:** Spring Boot • Spring Security (JWT) • Spring Data JPA • Hibernate • Thymeleaf
+
+**IA & Dados:** scikit-learn • XGBoost • Pandas • NumPy • IBM Watson • FastAPI
 
 **Banco de Dados:** MySQL • PostgreSQL • Oracle • SQL Server • Firebird
 
-**IoT & Hardware:** ESP32 • Arduino • MQTT • Programação de Rede (TCP/IP) • SSH
+**IoT & Automação:** ESP32 • Arduino • MQTT • Descoberta de IP • SSH
 
-**IA & Dados:** Python • scikit-learn • XGBoost • Pandas • FastAPI • IBM Watson
+**DevOps:** Docker • Git • GitHub • Maven • Linux
 
-**DevOps & Ferramentas:** Docker • Git • GitHub • Maven • Linux • Postman
-
-**Testes & Qualidade:** JUnit • TDD • Mockito • Testes Unitários
+**Testes:** JUnit • TDD • Mockito • Testes Unitários
 
 ---
 
-## 🎯 Projetos em Produção
+## 🏢 Experiência Profissional
 
-### 🏠 **WowConfig** — Automação Residencial
-Sistema Java Swing que descobre automaticamente módulos IoT na rede, configura relés, cortinas motorizadas, IR/RF, integração com Alexa.
-- Descoberta de IP via TCP/IP
-- Comunicação entre módulos
-- Persistência em SQL
-- Deploy via SSH/WinSCP
-
-**Tech:** Java Swing • MySQL • Programação de Rede • SSH
-
----
-
-### 📡 **TrustFi** — Plataforma IoT de Redes Wi-Fi
-Gestão de equipamentos de rede para 200+ integradores ativos. API Spring Boot com multi-tenancy, autenticação JWT, telemetria via MQTT em tempo real.
-- Autenticação stateless JWT
-- Multi-tenancy controlada
-- Ingestão de dados MQTT
-- 200+ integradores ativos
-
-**Tech:** Java • Spring Boot • JWT • MySQL • MQTT • Linux
-
----
-
-### 🛒 **WebShop** — E-commerce B2B
-E-commerce com fluxo de aprovação multinível (comercial → financeiro). Cada perfil tem permissões específicas.
-- Carrinho de compras
-- Fluxo de aprovação
-- Controle de permissões
-- Acompanhamento em tempo real
-
-**Tech:** Java • Spring Boot • Python • HTML • CSS • JavaScript
-
----
-
-## 🧪 Projetos Recentes
-
-### **Automation Testing Lab** — Plataforma de Testes Automatizados
-Laboratório profissional de testes demonstrando arquitetura limpa, testes avançados e CI/CD.
-- 60+ testes automatizados
-- 85%+ code coverage com JaCoCo
-- Unit tests, Integration tests, API tests
-- Mockito, AssertJ, REST Assured
-- Docker + GitHub Actions CI/CD
-
-**Tech:** Java 17 • Spring Boot • JUnit 5 • Mockito • Docker
-
-[Acesse o projeto →](https://github.com/abimaelgomez/automation-testing-lab)
-
----
-
-## 🤖 Projetos Acadêmicos — IA (FIAP)
-
-**AgroRisk AI** — Análise de risco em operações agrícolas com dados geoespaciais e Machine Learning
-
-**Sistema de Irrigação IoT** — ESP32 com sensores + previsão climática via OpenWeather
-
-**Análise Estatística** — R + IBGE API para exploração de dados agrícolas brasileiros
-
-**Tech:** Python • FastAPI • XGBoost • Pandas • ESP32 • R
-
----
-
-## 📈 Experiência
-
-**Desenvolvedor de Software** @ WOW Tecnologia (Ago/2024 – Mar/2026)
-- 6 produtos em produção (WowConfig, TrustFi, WOW ERP, WebShop, Solis Solar, FlowDeal)
-- APIs Java/Spring Boot com JWT e validação de dados
+**Desenvolvedor de Software** — WOW Tecnologia (Ago/2024 – Mar/2026)
+- Java • Spring Boot • JWT • MySQL • MQTT • Python • Git/SVN
+- 6 produtos em produção
+- APIs REST com autenticação stateless
 - Programação de rede (TCP/IP, descoberta de IP)
-- Code review, testes unitários, refatoração
 
-**Analista de Sistemas** @ Braslab Optical (Nov/2023 – Abr/2024)
-- Suporte técnico especializado
-- Banco Firebird, SQL
+**Analista de Sistemas** — Braslab Optical (Nov/2023 – Abr/2024)
+- Firebird • SQL
 
-**Help Desk, Faturamento, Operação** @ Siol Alimentos / B2W Digital (2015–2021)
-- Suporte TI, RPA, WMS
-- Visão ponta a ponta de processos
+**Help Desk, Faturamento e Operação** — Siol Alimentos / B2W Digital (2015–2021)
+- Suporte TI • RPA • WMS
+
+---
+
+## 📁 Projetos
+
+**automation-testing-lab** — Plataforma de Testes Automatizados
+- 60+ testes automatizados
+- 85% code coverage com JaCoCo
+- Unit tests, Integration tests, API tests (MockMvc, REST Assured)
+- Docker + GitHub Actions CI/CD
+- Java 17 • Spring Boot • JUnit 5 • Mockito
+
+[Ver projeto →](https://github.com/abimaelgomez/automation-testing-lab)
+
+---
+
+**WowConfig** — Automação Residencial (Produção)
+- Descobre automaticamente módulos IoT na rede
+- Configura relés, cortinas, IR/RF, Alexa
+- Java Swing • MySQL • Programação de Rede
+
+**TrustFi** — Plataforma IoT de Redes Wi-Fi (Produção)
+- Gestão de equipamentos para 200+ integradores
+- Autenticação JWT • Multi-tenancy • MQTT
+- Java • Spring Boot • MySQL • Linux
+
+**WebShop** — E-commerce B2B (Produção)
+- Fluxo de aprovação multinível
+- Java • Python • HTML • CSS • JavaScript
 
 ---
 
 ## 🎓 Formação
 
-**Pós-graduação em Inteligência Artificial** — FIAP (em andamento, conclusão Dez/2027)
+**Pós-graduação em Inteligência Artificial** — FIAP (em andamento)
 
 **Análise e Desenvolvimento de Sistemas** — UNIP Alphaville (2019–2023)
 
 **Cursos:**
-- FIAP Nano Course: Chatbots, IBM Watson, Node-RED, LLMs
+- FIAP: Chatbots, IBM Watson, Node-RED, LLMs
 - VAR Solutions: Java, Spring Boot, Docker, Postman
 - Alura: Java Avançado, TDD + JUnit, PostgreSQL, Maven, Linux
 
 ---
 
-## 🌐 Links
+## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abimael-gomes-799a54137)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abimaelgomez)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abimaelcarvalho95@gmail.com)
-
----
-
-**"Desenvolvedor que vem do suporte sabe o que é um software que funciona."**
+[LinkedIn](https://linkedin.com/in/abimael-gomes-799a54137) • [GitHub](https://github.com/abimaelgomez) • [WhatsApp](https://wa.me/5511966123959) • [Email](mailto:abimaelcarvalho95@gmail.com)
