@@ -31,6 +31,9 @@
 </div>
 
 ---
+
+## 📊 GitHub Stats
+
 <div align="center">
   <a href="https://github.com/abimaelgomez">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimaelgomez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
@@ -41,11 +44,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abimaelgomez&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abimaelgomez&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</div>
-
 
 ---
 
@@ -91,43 +89,72 @@
   <img src="https://img.shields.io/badge/XGBOOST-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost"/>
 </div>
 
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=3498db&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let%27s+build+something+amazing+together!" alt="Typing SVG" />
 </div>
 
+---
 
+# 📊 ESCOLHA UM GRÁFICO PARA ADICIONAR:
+
+## ⭐ Opção 1: WakaTime (Se você usa)
 <div align="center">
   <img src="https://wakatime.com/share/@abimaelgomez/wakatime-badge.svg" alt="WakaTime badge"/>
 </div>
 
+---
+
+## 🔥 Opção 2: GitHub Skyline (3D Visual)
 <div align="center">
   <img src="https://skyline.github.com/abimaelgomez/2024.png" alt="GitHub Skyline"/>
 </div>
 
+---
+
+## 📅 Opção 3: Contribution Calendar (Tradicional)
 <div align="center">
   <img src="https://github-contribution-calendar.vercel.app/api?username=abimaelgomez&theme=dark" alt="Contribution Calendar"/>
 </div>
 
+---
+
+## 🎯 Opção 4: Stats com Ranking
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abimaelgomez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats with Rank"/>
 </div>
 
+---
+
+## 📈 Opção 5: Profile Details Card (RECOMENDADO!)
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Productivity Graph"/>
 </div>
 
+---
+
+## 🥧 Opção 6: Languages Pie Chart
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abimaelgomez&layout=pie&theme=tokyonight&hide_border=true" alt="Languages Pie Chart"/>
 </div>
 
+---
+
+## 📊 Opção 7: Repos per Language
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abimaelgomez&theme=tokyonight" alt="Repos per Language"/>
 </div>
 
+---
+
+## ✨ Opção 8: Stats Premium
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abimaelgomez&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=GitHub%20Statistics" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abimaelgomez&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=GitHub%20Statistics" alt="GitHub Stats Premium"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Productivity Graph"/>
-</div>
+---
+
+## ❓ QUAL VOCÊ PREFERE?
+
+Escolha o número (1, 2, 3, 4, 5, 6, 7 ou 8) e eu tiro os outros e deixo só o seu no README final! ✅
