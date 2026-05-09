@@ -15,18 +15,12 @@
 
 <!-- Social Links -->
 <div align="center">
-  <a href="https://linkedin.com/in/abimael-gomes-799a54137">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:abimaelcarvalho95@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://wa.me/5511966123959">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://github.com/abimaelgomez">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logoColor=white" alt="GitHub"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abimael-gomes-799a54137)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abimaelcarvalho95@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511966123959)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abimaelgomez)
+
 </div>
 
 <br/>
@@ -103,4 +97,12 @@
   <br/>
   <p>Let's build something amazing together!</p>
   <img src="https://komarev.com/ghpvc/?username=abimaelgomez&color=00D9FF&style=flat-square" alt="Profile views" />
+</div>
+
+
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=3498db&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let%27s+build+something+amazing+together!" alt="Typing SVG" />
 </div>
