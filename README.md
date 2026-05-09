@@ -97,21 +97,7 @@
 
 ---
 
-# 📊 ESCOLHA UM GRÁFICO PARA ADICIONAR:
-
-## ⭐ Opção 1: WakaTime (Se você usa)
-<div align="center">
-  <img src="https://wakatime.com/share/@abimaelgomez/wakatime-badge.svg" alt="WakaTime badge"/>
-</div>
-
----
-
-## 🔥 Opção 2: GitHub Skyline (3D Visual)
-<div align="center">
-  <img src="https://skyline.github.com/abimaelgomez/2024.png" alt="GitHub Skyline"/>
-</div>
-
----
+# 🎨 ESCOLHA UM GRÁFICO PARA ADICIONAR:
 
 ## 📅 Opção 3: Contribution Calendar (Tradicional)
 <div align="center">
@@ -129,7 +115,21 @@
 
 ## 📈 Opção 5: Profile Details Card (RECOMENDADO!)
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Productivity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Profile Details"/>
+</div>
+
+---
+
+## 📊 Opção 5B: Most Commit Language
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language"/>
+</div>
+
+---
+
+## 📉 Opção 5C: Stats Summary Card
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary"/>
 </div>
 
 ---
@@ -155,6 +155,26 @@
 
 ---
 
+## 🎲 BONUS: Combinação Recomendada (Opção 5 + 5B + 5C)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Profile Details"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary"/>
+</div>
+
+---
+
 ## ❓ QUAL VOCÊ PREFERE?
 
-Escolha o número (1, 2, 3, 4, 5, 6, 7 ou 8) e eu tiro os outros e deixo só o seu no README final! ✅
+**Opções:**
+- **3** = Contribution Calendar
+- **4** = Stats com Ranking
+- **5** = Profile Details (ÚNICO)
+- **5+** = Profile Details + Most Commit + Stats (3 CARDS)
+- **6** = Pie Chart
+- **7** = Repos per Language
+- **8** = Stats Premium
+- **COMBINAÇÃO** = Todos os que gostou junto
+
+**Manda qual(is) e eu crio o README FINAL! ✅**
