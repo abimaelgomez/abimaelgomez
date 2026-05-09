@@ -17,7 +17,7 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/abimael-gomes-799a54137"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin"/></a>
-<a href="mailto:abimaelcarvalho95@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/681/681494.png" height="40" alt="gmail"/></a>
+<a href="mailto:abimaelcarvalho95@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail"/></a>
 <a href="https://wa.me/5511966123959"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="40" alt="whatsapp"/></a>
 
 </div>
