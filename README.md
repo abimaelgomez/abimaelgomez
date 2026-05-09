@@ -7,7 +7,7 @@
 
 <!-- Title -->
 <div align="center">
-  <h1>👨‍💻 Abimael Gomes</h1>
+  <h1>Abimael Gomes</h1>
   <p><i>Backend Developer | Java | Spring Boot | Enterprise Systems</i></p>
 </div>
 
