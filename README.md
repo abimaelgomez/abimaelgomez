@@ -82,125 +82,27 @@
 </div>
 
 
-<!-- OPÇÃO 1: Skillicons Clean -->
-## Opção 1: Skillicons Clean
-<div align="center">
-  <h3>Backend & Core</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
-  
-  <h3>Databases</h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" />
-  
-  <h3>DevOps & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git" />
-  
-  <h3>Testing & QA</h3>
-  <img src="https://skillicons.dev/icons?i=java" /> (JUnit 5, Mockito, TDD)
-  
-  <h3>IoT & AI</h3>
-  <img src="https://skillicons.dev/icons?i=python,fastapi" />
-</div>
+## 🛠️ Tech Stack
 
----
-
-<!-- OPÇÃO 2: Simples Icons (Muito Minimalista) -->
-## Opção 2: Simples Icons
-<div align="center">
-  <h3>Backend & Core</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="50" alt="maven"/>
-  
-  <h3>Databases</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgres"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="50" alt="oracle"/>
-  
-  <h3>DevOps & Tools</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git"/>
-  
-  <h3>AI & Data</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi"/>
-</div>
-
----
-
-<!-- OPÇÃO 3: Skillicons Compact -->
-## Opção 3: Skillicons Compact
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,oracle,docker,linux,git,python,fastapi" />
-</div>
-
----
-
-<!-- OPÇÃO 4: Apenas Texto Limpo -->
-## Opção 4: Apenas Texto
-### 🛠️ Tech Stack
-
-**Backend:** Java 17 • Spring Boot • Spring Security • Maven
-
-**Databases:** PostgreSQL • MySQL • Oracle • Firebird
-
-**DevOps:** Docker • Linux • Git • SSH
-
-**Testing:** JUnit 5 • Mockito • TDD
-
-**IoT & AI:** ESP32 • MQTT • Python • FastAPI • XGBoost
-
----
-
-<!-- OPÇÃO 5: Ícones com Texto Pequeno -->
-## Opção 5: Ícones com Labels
 <div align="center">
 
-**Backend & Core**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,maven" />
+### Backend & Core
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="60" alt="spring"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" height="60" alt="maven"/>
 
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,oracle" />
+### Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgres"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="oracle"/>
 
-**DevOps & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,linux,git" />
+### DevOps & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git"/>
 
-**Testing**
-<br/>
-<img src="https://skillicons.dev/icons?i=java" />
+### IoT & AI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi"/>
 
-**IoT & AI**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,fastapi" />
-
-</div>
-
----
-
-<!-- OPÇÃO 6: Devicon Grid (Profissional) -->
-## Opção 6: Devicon Grid
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" height="50"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50"/></td>
-      <td colspan="4"></td>
-    </tr>
-  </table>
 </div>
