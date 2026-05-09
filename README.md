@@ -16,7 +16,9 @@
 <!-- Social Links -->
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abimael-gomes-799a54137) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abimaelcarvalho95@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511966123959) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abimaelgomez)
+<a href="https://linkedin.com/in/abimael-gomes-799a54137"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin"/></a>
+<a href="mailto:abimaelcarvalho95@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/681/681494.png" height="40" alt="gmail"/></a>
+<a href="https://wa.me/5511966123959"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="40" alt="whatsapp"/></a>
 
 </div>
 
