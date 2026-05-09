@@ -35,8 +35,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language" width="48%" style="max-width: 400px;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" width="48%" style="max-width: 400px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language" width="49%" style="max-width: 400px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" width="49%" style="max-width: 400px;" />
 </div>
 
 <!-- Tech Stack -->
