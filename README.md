@@ -59,8 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="55" alt="fastapi" style="margin: 8px 10px; transition: transform 0.3s;"/>
 </div>
 
----
-
 <!-- Footer -->
 <div align="center" style="margin-top: 30px;">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let%27s+build+something+amazing+together!" alt="Typing SVG" />
@@ -68,6 +66,3 @@
 
 <br/>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=abimaelgomez&color=00D9FF&style=flat-square" alt="Profile views" />
-</div>
