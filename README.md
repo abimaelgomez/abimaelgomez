@@ -40,7 +40,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" style="max-width: 400px; margin: 10px;"/>
 </div>
 
----
+
 
 <!-- Tech Stack -->
 <h2 align="center" style="color: #00D9FF; margin: 30px 0 20px 0;">🛠️ Tech Stack</h2>
