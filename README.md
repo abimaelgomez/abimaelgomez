@@ -35,15 +35,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language" width="48%" style="max-width: 400px; margin: 10px;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" width="48%" style="max-width: 400px; margin: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language" width="48%" style="max-width: 400px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" width="48%" style="max-width: 400px; />
 </div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 0;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language" width="50%" style="margin: 0;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" width="50%" style="margin: 0;"/>
-</div>
-
 
 <!-- Tech Stack -->
 <h2 align="center" style="color: #00D9FF; margin: 30px 0 20px 0;">🛠️ Tech Stack</h2>
