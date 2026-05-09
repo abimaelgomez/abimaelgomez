@@ -32,17 +32,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/abimaelgomez">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimaelgomez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abimaelgomez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abimaelgomez&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Profile Details"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary"/>
 </div>
 
 ---
@@ -94,87 +90,3 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=3498db&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let%27s+build+something+amazing+together!" alt="Typing SVG" />
 </div>
-
----
-
-# 🎨 ESCOLHA UM GRÁFICO PARA ADICIONAR:
-
-## 📅 Opção 3: Contribution Calendar (Tradicional)
-<div align="center">
-  <img src="https://github-contribution-calendar.vercel.app/api?username=abimaelgomez&theme=dark" alt="Contribution Calendar"/>
-</div>
-
----
-
-## 🎯 Opção 4: Stats com Ranking
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abimaelgomez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats with Rank"/>
-</div>
-
----
-
-## 📈 Opção 5: Profile Details Card (RECOMENDADO!)
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Profile Details"/>
-</div>
-
----
-
-## 📊 Opção 5B: Most Commit Language
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language"/>
-</div>
-
----
-
-## 📉 Opção 5C: Stats Summary Card
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary"/>
-</div>
-
----
-
-## 🥧 Opção 6: Languages Pie Chart
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abimaelgomez&layout=pie&theme=tokyonight&hide_border=true" alt="Languages Pie Chart"/>
-</div>
-
----
-
-## 📊 Opção 7: Repos per Language
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abimaelgomez&theme=tokyonight" alt="Repos per Language"/>
-</div>
-
----
-
-## ✨ Opção 8: Stats Premium
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abimaelgomez&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10&custom_title=GitHub%20Statistics" alt="GitHub Stats Premium"/>
-</div>
-
----
-
-## 🎲 BONUS: Combinação Recomendada (Opção 5 + 5B + 5C)
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Profile Details"/>
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary"/>
-</div>
-
----
-
-## ❓ QUAL VOCÊ PREFERE?
-
-**Opções:**
-- **3** = Contribution Calendar
-- **4** = Stats com Ranking
-- **5** = Profile Details (ÚNICO)
-- **5+** = Profile Details + Most Commit + Stats (3 CARDS)
-- **6** = Pie Chart
-- **7** = Repos per Language
-- **8** = Stats Premium
-- **COMBINAÇÃO** = Todos os que gostou junto
-
-**Manda qual(is) e eu crio o README FINAL! ✅**
