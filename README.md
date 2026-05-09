@@ -40,16 +40,23 @@
 </div>
 
 <!-- GitHub Analytics -->
+<!-- Linha 1: Profile Details 100% -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Profile Details" width="100%" style="max-width: 900px; margin: 15px 0;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Profile Details" width="100%" style="margin: 15px 0;"/>
 </div>
 
+<!-- Linha 2: Top Languages 50% + Stats 50% -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language" width="100%" style="max-width: 100%; margin: 10px 0;"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" width="100%" style="max-width: 100%; margin: 10px 0;"/>
+  <table style="width: 100%; border-collapse: collapse;">
+    <tr>
+      <td style="width: 50%; padding: 0;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language" width="100%"/>
+      </td>
+      <td style="width: 50%; padding: 0;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
