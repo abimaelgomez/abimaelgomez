@@ -8,7 +8,7 @@
 <!-- Title -->
 <div align="center">
   <h1>👨‍💻 Abimael Gomes</h1>
-  <p><i>Backend Software Engineer | Java | Spring Boot | Enterprise Systems</i></p>
+  <p><i>Backend Developer | Java | Spring Boot | Enterprise Systems</i></p>
 </div>
 
 <br/>
