@@ -19,20 +19,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abimael-gomes-799a54137)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abimaelcarvalho95@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511966123959)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abimaelgomez)
 
 </div>
 
 <br/>
 
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abimaelgomez&color=00D9FF&style=flat-square" alt="Profile views" />
-</div>
 
----
 
-## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Profile Details"/>
