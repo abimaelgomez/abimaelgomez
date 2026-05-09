@@ -21,9 +21,8 @@
   <a href="mailto:abimaelcarvalho95@gmail.com" style="margin: 0 12px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="gmail"/>
   </a>
-  <a href="https://wa.me/5511966123959" style="margin: 0 12px;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" height="40" alt="whatsapp" style="filter: invert(1);"/>
-  </a>
+<a href="https://wa.me/5511966123959"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" height="40" alt="whatsapp" style="filter: invert(1);"/></a>
+
 </div>
 
 <br/>
