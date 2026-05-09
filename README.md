@@ -1,7 +1,7 @@
 # Abimael Gomes Silva de Carvalho
 
 Desenvolvedor de Software Backend | Java • Spring Boot • APIs REST
-Cajamar/SP, Brasil • (11) 96612-3959 • abimaelcarvalho95@gmail.com
+Cajamar/SP • (11) 96612-3959 • abimaelcarvalho95@gmail.com
 [LinkedIn](https://linkedin.com/in/abimael-gomes-799a54137) • [GitHub](https://github.com/abimaelgomez) • [WhatsApp](https://wa.me/5511966123959)
 
 ---
@@ -13,79 +13,33 @@ Cajamar/SP, Brasil • (11) 96612-3959 • abimaelcarvalho95@gmail.com
 
 ---
 
-## 💻 Stack Técnica
+## 💻 Tech Stack
 
-**Linguagens:** Java • Python • R • JavaScript • SQL • C++ (Arduino)
-
-**Backend:** Spring Boot • Spring Security (JWT) • Spring Data JPA • Hibernate • Thymeleaf
-
-**IA & Dados:** scikit-learn • XGBoost • Pandas • NumPy • IBM Watson • FastAPI
-
-**Banco de Dados:** MySQL • PostgreSQL • Oracle • SQL Server • Firebird
-
-**IoT & Automação:** ESP32 • Arduino • MQTT • Descoberta de IP • SSH
-
-**DevOps:** Docker • Git • GitHub • Maven • Linux
-
-**Testes:** JUnit • TDD • Mockito • Testes Unitários
+Java • Spring Boot • APIs REST • JWT • MySQL • PostgreSQL • Docker • Git • JUnit • Mockito • Python
 
 ---
 
-## 🏢 Experiência Profissional
+## 🏢 Experiência
 
-**Desenvolvedor de Software** — WOW Tecnologia (Ago/2024 – Mar/2026)
-- Java • Spring Boot • JWT • MySQL • MQTT • Python • Git/SVN
-- 6 produtos em produção
-- APIs REST com autenticação stateless
-- Programação de rede (TCP/IP, descoberta de IP)
+**Desenvolvedor de Software** — WOW Tecnologia (2024–2026)
 
-**Analista de Sistemas** — Braslab Optical (Nov/2023 – Abr/2024)
-- Firebird • SQL
-
-**Help Desk, Faturamento e Operação** — Siol Alimentos / B2W Digital (2015–2021)
-- Suporte TI • RPA • WMS
+**Analista de Sistemas** — Braslab Optical (2023–2024)
 
 ---
 
 ## 📁 Projetos
 
 **automation-testing-lab** — Plataforma de Testes Automatizados
-- 60+ testes automatizados
-- 85% code coverage com JaCoCo
-- Unit tests, Integration tests, API tests (MockMvc, REST Assured)
-- Docker + GitHub Actions CI/CD
-- Java 17 • Spring Boot • JUnit 5 • Mockito
+60+ testes • 85% coverage • JUnit 5 • Mockito • Docker • GitHub Actions
 
 [Ver projeto →](https://github.com/abimaelgomez/automation-testing-lab)
 
 ---
 
-**WowConfig** — Automação Residencial (Produção)
-- Descobre automaticamente módulos IoT na rede
-- Configura relés, cortinas, IR/RF, Alexa
-- Java Swing • MySQL • Programação de Rede
-
-**TrustFi** — Plataforma IoT de Redes Wi-Fi (Produção)
-- Gestão de equipamentos para 200+ integradores
-- Autenticação JWT • Multi-tenancy • MQTT
-- Java • Spring Boot • MySQL • Linux
-
-**WebShop** — E-commerce B2B (Produção)
-- Fluxo de aprovação multinível
-- Java • Python • HTML • CSS • JavaScript
-
----
-
 ## 🎓 Formação
 
-**Pós-graduação em Inteligência Artificial** — FIAP (em andamento)
-
-**Análise e Desenvolvimento de Sistemas** — UNIP Alphaville (2019–2023)
-
-**Cursos:**
-- FIAP: Chatbots, IBM Watson, Node-RED, LLMs
-- VAR Solutions: Java, Spring Boot, Docker, Postman
-- Alura: Java Avançado, TDD + JUnit, PostgreSQL, Maven, Linux
+Inteligência Artificial — FIAP (em andamento)
+Análise e Desenvolvimento de Sistemas — UNIP (2019–2023)
 
 ---
 
