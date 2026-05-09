@@ -91,18 +91,6 @@
   <img src="https://img.shields.io/badge/XGBOOST-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost"/>
 </div>
 
----
-
-<div align="center">
-  <br/>
-  <p>Let's build something amazing together!</p>
-  <img src="https://komarev.com/ghpvc/?username=abimaelgomez&color=00D9FF&style=flat-square" alt="Profile views" />
-</div>
-
-
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=3498db&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let%27s+build+something+amazing+together!" alt="Typing SVG" />
 </div>
