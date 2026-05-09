@@ -24,9 +24,6 @@
   <a href="https://wa.me/5511966123959" style="margin: 0 12px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/whatsapp.svg" height="40" alt="whatsapp" style="filter: invert(1);"/>
   </a>
-  <a href="https://github.com/abimaelgomez" style="margin: 0 12px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
-  </a>
 </div>
 
 <br/>
