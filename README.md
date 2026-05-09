@@ -37,19 +37,21 @@
 </div>
 
 ---
-
-## 📊 GitHub Analytics
-
 <div align="center">
   <a href="https://github.com/abimaelgomez">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimaelgomez&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abimaelgomez&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abimaelgomez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=abimaelgomez&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abimaelgomez&theme=dark&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com?user=abimaelgomez&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abimaelgomez&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
+
 
 ---
 
