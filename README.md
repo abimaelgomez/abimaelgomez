@@ -35,31 +35,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language" style="max-width: 400px; margin: 10px;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" style="max-width: 400px; margin: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language" width="50%" style="max-width: 400px; margin: 10px;"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" width="50%" style="max-width: 400px; margin: 10px;"/>
 </div>
-
-<!-- GitHub Analytics -->
-<!-- Linha 1: Profile Details 100% -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abimaelgomez&theme=tokyonight" alt="Profile Details" width="100%" style="margin: 15px 0;"/>
-</div>
-
-<!-- Linha 2: Top Languages 50% + Stats 50% -->
-<div align="center">
-  <table style="width: 100%; border-collapse: collapse;">
-    <tr>
-      <td style="width: 50%; padding: 0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abimaelgomez&theme=tokyonight" alt="Most Commit Language" width="100%"/>
-      </td>
-      <td style="width: 50%; padding: 0;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abimaelgomez&theme=tokyonight" alt="Stats Summary" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 
 <!-- Tech Stack -->
 <h2 align="center" style="color: #00D9FF; margin: 30px 0 20px 0;">🛠️ Tech Stack</h2>
