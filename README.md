@@ -1,6 +1,6 @@
 <!-- Header Animado -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;Enterprise+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Java+%7C+Spring+Boot;Artificial+Intelligence" alt="Typing SVG" />
 </div>
 
 <br/>
